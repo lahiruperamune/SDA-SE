@@ -1,6 +1,4 @@
-# SDA-SE
-
-DevOps Coding Challenge
+# Lambda-python terraform module
 
 This module Create a AWS Lambda function using Terraform and Python.
 
